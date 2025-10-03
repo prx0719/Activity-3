@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 int main(){
     int n1, n2, n3, n4, n5, n6, n7, n8, discount=0,sum;
     char name[100], id[100];
@@ -27,7 +27,7 @@ int main(){
     scanf("%d", &n3);
     
     printf("-------------------------------------------\n");
-    printf("Enter amount of your food item:");
+    printf("Enter amount of your  Fourth food item:");
     scanf("%d", &n4);
     
     printf("-------------------------------------------\n");
